@@ -1,0 +1,20 @@
+.fondo-verde{
+    background-color: green;
+    color: white;
+}
+
+nav ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: space-around;
+    align-items: center;
+
+    background-color: darksalmon;
+    max-width: 80%;
+    margin: 0 auto;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    color: white;
+    text-transform: uppercase; 
+}
