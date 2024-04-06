@@ -1,0 +1,34 @@
+header h1{
+    background-color: rgb(123, 69, 16);
+    
+}
+
+/*letras*/
+
+.color-letra{
+    color: white;
+}
+
+.mayuscula{
+    text-transform: uppercase;
+}
+
+.familia-1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.familia-2{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.distancia-arriba-1{
+    margin-top: 1.3rem;
+}
+
+.ensanchar-arriba-1{
+    padding-top: 1.3rem;
+}
+
+.ensanchar-abajo-1{
+
+}
